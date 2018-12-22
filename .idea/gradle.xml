@@ -8,10 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android-jokes-displayer" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/backend" />
-            <option value="$PROJECT_DIR$/javajokes" />
-            <option value="$PROJECT_DIR$/jokedisplay" />
+            <option value="$PROJECT_DIR$/java-jokes-provider" />
+            <option value="$PROJECT_DIR$/jokes-backend" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
