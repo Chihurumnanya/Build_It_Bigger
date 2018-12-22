@@ -12,12 +12,6 @@ The finished app consists of 4 modules:
 4. An Android app that fetches jokes from the GCE module and passes them to the Android Library for display. Paid and Free (with ads) flavors.
 
 
-Screens
-------
-
-![alt text](https://github.com/henriquenfaria/build-it-bigger/blob/master/art/main.png "Main")
-![alt text](https://github.com/henriquenfaria/build-it-bigger/blob/master/art/joke.png "Joke")
-
 
 Instructions
 ------
@@ -39,7 +33,7 @@ This project uses the following library:
 License
 ------
 
-> Copyright 2018 Chihurumnanya NWanevu
+> Copyright 2018 Chihurumnanya Nwanevu
 > Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
 > http://www.apache.org/licenses/LICENSE-2.0
